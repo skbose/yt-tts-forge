@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "yt-tts-forge"
+version = "0.1.0"
+description = "A toolkit to prepare tts dataset from youtube videos"
+authors = ["Sourav Kumar Bose <sourav.kumar.bose@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.0.0"
+pytube = {git = "https://github.com/Vakihito/pytube.git"}
+hydra-core = "^1.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
