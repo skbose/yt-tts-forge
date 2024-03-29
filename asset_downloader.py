@@ -6,7 +6,6 @@ import hydra
 from omegaconf import DictConfig, OmegaConf
 
 
-
 class AssetDownloader:
     """
     A class that downloads audio and captions from YouTube videos.

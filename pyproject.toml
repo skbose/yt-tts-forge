@@ -10,6 +10,9 @@ python = "^3.9"
 jupyter = "^1.0.0"
 pytube = {git = "https://github.com/Vakihito/pytube.git"}
 hydra-core = "^1.3.2"
+audiosegment = "^0.23.0"
+pysrt = "^1.1.2"
+tqdm = "^4.66.2"
 
 
 [build-system]
