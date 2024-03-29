@@ -1,3 +1,4 @@
 defaults:
   - yt_asset: make_1st_1cr
   - tts_align: align
+  - tts_prepare: make_1st_1cr
