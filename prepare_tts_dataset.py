@@ -106,7 +106,7 @@ class DatasetPreparation:
         self.create_hugging_face_dataset()
 
 
-@hydra.main(config_path="configs", config_name="config")
+@hydra.main(version_base=None, config_path="configs", config_name="config")
 def main(cfg):
     logging.info(f"Preparing dataset for TTS model..")
 

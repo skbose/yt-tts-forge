@@ -1,0 +1,4 @@
+speaker_name: kreethi
+output_path: "ayodhya/tts_dataset/"
+aligned_path: "ayodhya/aligned_output_all"
+sample_rate: 16000
