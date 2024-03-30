@@ -1,0 +1,4 @@
+speaker_name: akshat
+output_path: "/Users/skbose/Personal Projects/data/make_1st_1cr/tts_dataset/"
+aligned_path: "/Users/skbose/Personal Projects/data/make_1st_1cr/aligned_output"
+sample_rate: 16000
