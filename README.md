@@ -74,4 +74,6 @@ Execute tts_prepare.py
 python tts_prepare.py
 ```
 
+# Train speecht5 model on custom dataset
 
+Use the Google collab notebook to fine-tune your custom speecht5 model: [Link to Notebook](https://colab.research.google.com/drive/19S60AMESnx4Efe7eoCuhT_RLCmCroFIp#scrollTo=HdmPhTOo0tBE)
