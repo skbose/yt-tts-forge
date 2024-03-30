@@ -16,12 +16,6 @@ pip install poetry
 ```
 
 **Step 3.**
-Init poetry package manager
-```
-poetry init
-```
-
-**Step 4.**
 Install packages
 ```
 poetry install
