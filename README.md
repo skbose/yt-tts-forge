@@ -6,7 +6,7 @@ Your go-to repository for training cutting-edge Text-to-Speech (TTS) models usin
 **Step 1.**
 Create a conda environment
 ```
-conda create -n yt-tts-forge python-3.9
+conda create -n yt-tts-forge python=3.9
 ```
 
 **Step 2.**
